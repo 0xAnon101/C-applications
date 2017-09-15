@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\GuessRandomNumber\GuessRandomNumber\bin\Debug\GuessRandomNumber.exe.config
+C:\Users\user\source\repos\GuessRandomNumber\GuessRandomNumber\bin\Debug\GuessRandomNumber.exe
+C:\Users\user\source\repos\GuessRandomNumber\GuessRandomNumber\bin\Debug\GuessRandomNumber.pdb
+C:\Users\user\source\repos\GuessRandomNumber\GuessRandomNumber\obj\Debug\GuessRandomNumber.Form1.resources
+C:\Users\user\source\repos\GuessRandomNumber\GuessRandomNumber\obj\Debug\GuessRandomNumber.Properties.Resources.resources
+C:\Users\user\source\repos\GuessRandomNumber\GuessRandomNumber\obj\Debug\GuessRandomNumber.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\GuessRandomNumber\GuessRandomNumber\obj\Debug\GuessRandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GuessRandomNumber\GuessRandomNumber\obj\Debug\GuessRandomNumber.exe
+C:\Users\user\source\repos\GuessRandomNumber\GuessRandomNumber\obj\Debug\GuessRandomNumber.pdb
+C:\Users\user\source\repos\GuessRandomNumber\GuessRandomNumber\obj\Debug\GuessRandomNumber.csprojResolveAssemblyReference.cache
