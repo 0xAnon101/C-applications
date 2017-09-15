@@ -21,7 +21,7 @@ namespace GuessRandomNumber
 
         struct TextboxDisplay
         {
-            public int id;
+            public int hello;
             
         } 
 
