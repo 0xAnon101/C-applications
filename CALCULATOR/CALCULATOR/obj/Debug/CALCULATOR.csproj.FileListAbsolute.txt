@@ -1,0 +1,33 @@
+C:\Users\user\documents\visual studio 2017\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Calculator.resources
+C:\Users\user\documents\visual studio 2017\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2017\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2017\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\user\documents\visual studio 2017\Projects\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.form1.resources
+C:\Users\Veer\Desktop\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe.config
+C:\Users\Veer\Desktop\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe
+C:\Users\Veer\Desktop\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.pdb
+C:\Users\Veer\Desktop\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csprojResolveAssemblyReference.cache
+C:\Users\Veer\Desktop\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Form1.resources
+C:\Users\Veer\Desktop\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Properties.Resources.resources
+C:\Users\Veer\Desktop\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.GenerateResource.Cache
+C:\Users\Veer\Desktop\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\Veer\Desktop\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe
+C:\Users\Veer\Desktop\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.pdb
+I:\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csprojResolveAssemblyReference.cache
+I:\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Form1.resources
+I:\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Properties.Resources.resources
+I:\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.GenerateResource.Cache
+I:\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.CoreCompileInputs.cache
+I:\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe
+I:\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.pdb
+C:\Users\user\source\repos\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe.config
+C:\Users\user\source\repos\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.exe
+C:\Users\user\source\repos\CALCULATOR\CALCULATOR\bin\Debug\CALCULATOR.pdb
+C:\Users\user\source\repos\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Form1.resources
+C:\Users\user\source\repos\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.Properties.Resources.resources
+C:\Users\user\source\repos\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.exe
+C:\Users\user\source\repos\CALCULATOR\CALCULATOR\obj\Debug\CALCULATOR.pdb
